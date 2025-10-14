@@ -36,6 +36,6 @@ Push – Pushes image to Docker Hub
 
 Deploy – Runs updated container
 
-👤 Author
 
+👤 Author
 Vivek Choudhary 
