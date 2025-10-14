@@ -24,9 +24,9 @@ Or with Docker Compose
 docker-compose up -d
 
 
-### App runs at http://localhost:8000
-```bash
-🧾 Jenkins Pipeline Stages .
+App runs at http://localhost:8000
+
+🧾 Jenkins Pipeline Stages 
 
 Clone Code – Pulls repo from GitHub
 
@@ -36,6 +36,6 @@ Push – Pushes image to Docker Hub
 
 Deploy – Runs updated container
 
-###👤 Author
-```bash
-Vivek Choudhary .
+👤 Author
+
+Vivek Choudhary 
